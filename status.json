@@ -1,4 +1,5 @@
 {
 	"status": "Aktif",
-	"body": "Reklam İzleyip Kod Alabilirsiniz!"
+	"body": "Reklam İzleyip Kod Alabilirsiniz!",
+	"dailyLimit": 10
 }
